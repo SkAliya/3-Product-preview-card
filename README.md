@@ -85,7 +85,7 @@ Active-State
 
 ## Author
 
-- Website - [Aliya Shaik](http://127.0.0.1:8080/index.html)
+- Website - [Aliya Shaik](https://skaliya.github.io/3-Product-preview-card/)
 - Frontend Mentor - [@SkAliya](https://www.frontendmentor.io/profile/SkAliya)
 
 ## Acknowledgments
